@@ -1,0 +1,16 @@
+{
+  "name": "ag-grid-docs",
+  "version": "0.0.1",
+  "description": "ag-grid docs ",
+  "main": "index.js",
+  "author": "孤梧",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.2.0",
+    "vuepress": "^1.2.0"
+  }
+}
