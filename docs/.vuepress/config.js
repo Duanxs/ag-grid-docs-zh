@@ -1,6 +1,7 @@
 module.exports = {
   title: 'ag-Grid 中文文档',
   description: 'ag-Grid 中文文档',
+  // base: '/Vue/',
   markdown: {
     lineNumbers: true
   },
