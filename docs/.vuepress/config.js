@@ -10,6 +10,7 @@ module.exports = {
     sidebar: {
       '/': [{
         title: 'Vue',
+        redirect: '/Vue/',
         children: [
           '/Vue/',
           '/Vue/Components',
