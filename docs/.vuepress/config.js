@@ -5,6 +5,7 @@ module.exports = {
   markdown: {
     lineNumbers: true
   },
+  theme: '@vuepress/vue',
   themeConfig: {
     displayAllHeaders: true,
     collapsable: false,
